@@ -9,7 +9,7 @@ Extract all articles filed under each and every tag in www.geeksforgeeks.org
 Disclaimer - The script will work only for python 2.7.x and not for python 3.x
 
 
-Specify your path by editing in the GFG_article_extractor.py 
+Specify your path by editing in the python script GFG_article_extractor.py 
 
 
 Run the script and .................... DONE!!!! 
