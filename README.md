@@ -21,7 +21,7 @@ ALL ARTICLES FILED UNDER EACH TAG WILL BE SAVED TO YOUR SPECIFIED PATH
 
 
 
-NOTE - The screenshots of the articles saved at the target computer can be seen for the ease of understanding
+
 
 
 
